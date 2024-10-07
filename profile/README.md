@@ -8,7 +8,7 @@ Its plugin-based architecture allows the user to adapt jQAssistant to the needs 
 
 ## About the organization
 
-This GitHub organization provides a collection of useful extensions to jQAssistant.
+This GitHub organization provides a collection of useful extensions to jQAssistant (see [repositories](https://github.com/orgs/jqassistant-plugin/repositories)).
 
 The core jQAssistant distribution is developed in our [main organization](https://github.com/jqassistant).
 Please have a look there for general information and when having issues or feature requests.
@@ -30,6 +30,7 @@ For any other topics, feel free to [Contact Us](mailto:info@jqassistant.org)
 ## Further Information
 
 * [User Manual](https://jqassistant.github.io/jqassistant/doc/)
-* [Introduction to jQAssistant in the JavaMagazin (german only)](https://www.buschmais.de/download/JavaMagazin_Artikelserie_jQAssistant.pdf)
+* [Introduction to jQAssistant in JavaMagazin (german only)](https://www.buschmais.de/download/JavaMagazin_Artikelserie_jQAssistant.pdf)
 * [jQAssistant Core](https://github.com/jqassistant)
 * [jQAssistant Examples](https://github.com/jqassistant-tutorials)
+* [Kontext E Plugins for jQAssistant](https://github.com/orgs/kontext-e/repositories)
